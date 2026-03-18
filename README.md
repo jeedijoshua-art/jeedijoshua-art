@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=150&section=header&text=Joshua%20Jeedi&fontSize=80&animation=fadeIn&fontAlignY=40" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Joshua%20Jeedi&fontSize=80&animation=fadeIn&fontAlignY=38" alt="Header" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=B-Tech+CSE+1st+Year+Student;Class+of+2029;Passionate+Developer+%26+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Hello+World!+👋;Building+Awesome+Things+💻;Passionate+Developer+%26+Creator+🚀" alt="Typing SVG" />
 </div>
 
 <h1 align="center">I'm Joshua Jeedi</h1>
-<h3 align="center">A passionate developer, creator, and problem solver ✨</h3>
+<h3 align="center">A passionate developer, creator, and problem solver ✨ Studying as a B-tech CSE student.🔥</h3>
 
 <p align="center">
   <a href="https://github.com/jeedijoshua-art">
