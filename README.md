@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!%20👋&fontSize=70&animation=fadeIn&fontAlignY=38" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=150&section=header&text=Joshua%20Jeedi&fontSize=80&animation=fadeIn&fontAlignY=40" alt="Header" />
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=B-Tech+CSE+1st+Year+Student;Class+of+2029;Passionate+Developer+%26+Creator" alt="Typing SVG" />
 </div>
 
 <h1 align="center">I'm Joshua Jeedi</h1>
@@ -15,8 +18,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **cutting-edge web applications and thoughtful user experiences.**
-- 🌱 I’m currently learning **advanced architectural patterns and modern frameworks.**
+- 🎓 I’m currently a **1st Year B-Tech CSE student**, graduating in the **Class of 2029.**
+- 🌱 I’m currently building my foundation in **Computer Science and modern programming languages.**
+- 🔭 I’m also working on **cutting-edge web applications and thoughtful user experiences.**
 - 👯 I’m looking to collaborate on **innovative open-source projects and creative tools.**
 - 💬 Ask me about **Web Development, UI/UX, and creative problem-solving.**
 - 📫 How to reach me: **jeedijoshua@example.com** *(Feel free to reach out!)*
