@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=900&size=45&pause=2000&color=00F2FE&center=true&vCenter=true&width=1000&height=80&lines=Joshua+Jeedi;Welcome+To+My+Profile!" alt="Joshua Jeedi" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=4FACFE&center=true&vCenter=true&width=1000&height=60&lines=First+Year+B.Tech+CSE+Student;Class+of+2029;Passionate+Developer+and+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=4FACFE&center=true&vCenter=true&width=1000&height=60&lines=B.Tech+CSE+Student;Class+of+2029;Passionate+Developer+and+Creator" alt="Typing SVG" />
 </div>
 
 <h1 align="center">I'm Joshua Jeedi</h1>
