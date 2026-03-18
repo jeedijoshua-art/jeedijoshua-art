@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=900&size=70&pause=2000&color=00F2FE&center=true&vCenter=true&width=800&height=120&lines=Joshua+Jeedi;Welcome+To+My+Profile" alt="Joshua Jeedi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=900&size=50&pause=2000&color=00F2FE&center=true&vCenter=true&width=800&height=100&lines=Joshua+Jeedi;Welcome+To+My+Profile!" alt="Joshua Jeedi" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4FACFE&center=true&vCenter=true&width=800&height=60&lines=B.Tech+CSE+Student+�;Class+of+2029+🎓;Passionate+Developer+%26+Creator+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FACFE&center=true&vCenter=true&width=800&height=60&lines=1st+Year+B.Tech+CSE+Student;Class+of+2029;Passionate+Developer+%26+Creator" alt="Typing SVG" />
 </div>
 
 <h1 align="center">I'm Joshua Jeedi</h1>
