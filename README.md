@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=900&size=45&pause=2000&color=00F2FE&center=true&vCenter=true&width=1000&height=80&lines=Joshua+Jeedi;Welcome+To+My+Profile!" alt="Joshua Jeedi" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=4FACFE&center=true&vCenter=true&width=1000&height=60&lines=B.Tech+CSE+Student;Passionate+Developer+and+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=4FACFE&center=true&vCenter=true&width=1000&height=60&lines=Software+Engineer;Building+Impactful+Solutions" alt="Typing SVG" />
 </div>
 
-<h1 align="center">I'm Joshua Jeedi</h1>
-<h3 align="center">A passionate developer, creator, and problem solver ✨ Studying as a B-tech CSE student.🔥</h3>
+<h1 align="center">Hi, I'm Joshua Jeedi 👋</h1>
+<h3 align="center">Computer Science student focused on building scalable software and intuitive user experiences. ✨</h3>
 
 <p align="center">
   <a href="https://github.com/jeedijoshua-art">
@@ -17,12 +17,34 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I’m currently a **1st Year B-Tech CSE student**.
-- 🌱 I’m currently building my foundation in **Computer Science and modern programming languages.**
-- 🔭 I’m also working on **cutting-edge web applications and thoughtful user experiences.**
-- 👯 I’m looking to collaborate on **innovative open-source projects and creative tools.**
-- 💬 Ask me about **Web Development, UI/UX, and creative problem-solving.**
-- ⚡ Fun fact: **I love building things that make a meaningful difference!**
+- 🎓 **Education:** 1st Year B.Tech Computer Science student (Class of 2029).
+- 💻 **Focus:** Mastering full-stack development, modern web technologies, and system architecture.
+- 🚀 **Currently Building:** Web applications with clean codebases and highly responsive user interfaces.
+- 🤝 **Collaboration:** Eager to contribute to open-source initiatives and work with forward-thinking teams.
+- 💬 **Let's Connect Over:** Frontend engineering, UI/UX optimization, or solving complex technical challenges.
+
+---
+
+### 💭 Developer Mindset
+
+> *"I don’t just write code, I build solutions that matter."*
+
+---
+
+### 🚀 Current Projects
+
+- **Portfolio Website** — A polished showcase of my personal brand, technical skills, and projects.
+- **AI Chat App** — An intelligent conversational interface built with OpenAI integrations and a modern, responsive UI.
+- **Full Stack Blog Platform** — A robust content management platform engineered using React, Node.js, and MongoDB.
+
+---
+
+### 🎯 Goals
+
+- [ ] Master Full Stack Development
+- [ ] Build 5+ real-world projects
+- [ ] Contribute to Open Source software
+- [ ] Learn System Design Basics
 
 ---
 
@@ -77,6 +99,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeedijoshua-art&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" />
 </div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeedijoshua-art&theme=tokyo-night" alt="Activity Graph" />
+</div>
 
 ---
 
@@ -86,7 +112,7 @@
   <a href="https://www.linkedin.com/in/joshuajeedi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/JoshuaJeedi"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:jeedijoshua@karunya.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Coming Soon" />
 </p>
 
 <br/>
