@@ -100,7 +100,8 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeedijoshua-art&theme=tokyo-night" alt="Activity Graph" />
+  <!-- This graph is styled with the official GitHub Green theme layout -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeedijoshua-art&theme=github-green&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
