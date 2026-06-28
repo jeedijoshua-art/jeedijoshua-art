@@ -17,9 +17,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** B.Tech Computer Science and Engineering student at Karunya Institute of Technology and Sciences.
-- 💻 **Focus:** Mastering frontend development, modern responsive web technologies, and web architecture.
-- 🚀 **Currently Building:** My first official web development portfolio index under the academic guidance of Dr. Titus.
+- 🎓 **Education:** 1st Year B.Tech Computer Science student (Class of 2029).
+- 💻 **Focus:** Mastering full-stack development, modern web technologies, and system architecture.
+- 🚀 **Currently Building:** Web applications with clean codebases and highly responsive user interfaces.
 - 🤝 **Collaboration:** Eager to contribute to open-source initiatives and work with forward-thinking teams.
 - 💬 **Let's Connect Over:** Frontend engineering, UI/UX optimization, or solving complex technical challenges.
 
@@ -33,9 +33,9 @@
 
 ### 🚀 Current Projects
 
-- **Web Portfolio Dashboard** — A comprehensive, responsive index of web development projects, core structural tasks, and advanced practicum lab exercises built using HTML5, CSS3, JavaScript, and Bootstrap.
-- **AI Integration Studies** — Exploring cloud capabilities and developing intelligent conversational interface layouts.
-- **Database & Security Configs** — Structuring back-end storage rules and setting up responsive full-stack layouts.
+- **Portfolio Website** — A polished showcase of my personal brand, technical skills, and projects.
+- **AI Chat App** — An intelligent conversational interface built with OpenAI integrations and a modern, responsive UI.
+- **Full Stack Blog Platform** — A robust content management platform engineered using React, Node.js, and MongoDB.
 
 ---
 
@@ -62,12 +62,12 @@
 
 #### Frameworks & Libraries
 <p align="left">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
 
 #### Tools & Platforms
@@ -75,6 +75,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
@@ -100,8 +101,7 @@
 </div>
 <br/>
 <div align="center">
-  <!-- This graph is styled with the official GitHub Green theme layout -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeedijoshua-art&theme=github-green&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeedijoshua-art&theme=tokyo-night" alt="Activity Graph" />
 </div>
 
 ---
@@ -112,7 +112,7 @@
   <a href="https://www.linkedin.com/in/joshuajeedi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/JoshuaJeedi"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:jeedijoshua@karunya.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://jeediwebdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://jeedijoshua-art.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <br/>
